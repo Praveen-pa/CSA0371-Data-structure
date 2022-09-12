@@ -10,3 +10,10 @@ else
 printf("The given number is odd");
 return 0;	
 }
+
+output:
+Enter any n umber :577
+The given number is odd
+
+Enter any n umber :566
+The given number is even
