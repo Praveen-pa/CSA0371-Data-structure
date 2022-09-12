@@ -47,3 +47,21 @@ printf("\n");
 }    
 return 0;  
 }  
+
+output:
+
+enter the number of row =2
+enter the number of column =2
+enter the first matrix element =
+1
+3
+5
+7
+enter the second matrix element =
+2
+4
+6
+8
+multiply of the matrix =
+20      28
+52      76
